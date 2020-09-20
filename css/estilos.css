@@ -46,6 +46,13 @@ body
     font-size: 20px;
 }
 
+#footer {
+    background: royalblue;
+    color: seashell;
+    text-align: center;
+    padding: 0.5em;
+}
+
 #post
 {
     background: white;
